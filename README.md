@@ -51,6 +51,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 <div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=utsavkatiyar34&theme=radical&background=000000)](https://github.com/utsavkatiyar34)
 
 [![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavkatiyar34&theme=radical)](https://github.com/utsavkatiyar34)
