@@ -1,6 +1,8 @@
- <h1 color="blue" align="center">
-    Hello! myself Utsav Katiyar
-  </h1>
+ <h2 color="blue" align="center">
+    Hi! there </h2>
+
+   <h2 color="blue" align="center"> I'm Utsav Katiyar</h2>
+   <p color="blue" align="center">from <b>Kanpur, Uttar Pradesh, India</b></p>
 
 <div id="header" align="center">
  <div align="center">
@@ -17,8 +19,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=utsavkatiyar34&style=flat-square&color=blue" alt=""/>
 <a href="https://github.com/utsavkatiyar34?tab=followers"><img src="https://img.shields.io/github/followers/utsavkatiyar34?label=Followers&style=social" alt="GitHub Badge"></a>
-</div>
 
+</div>
+<hr>
+<a href="https://myportfolio-utsav-katiyar.netlify.app/" target="blank"> <p>Portfolio</p></a>
+<a href="https://drive.google.com/file/d/1vKQS1jeamcg00d9Ha0qX-KQAaL42z788/view?usp=sharing/" target="blank"> <p>Resume</p></a>
+<hr>
 ---
 
 ### :man_technologist: About Me :
@@ -28,7 +34,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Loves to Explore Technical Content & Web Techs.
 
 - :zap: In my free time, I solve problems on HackerRank, Leetcode & GeeksForGeeks and read about latest upgrading technologies.
-<a href="https://myportfolio-utsav-katiyar.netlify.app/" target="blank"> <h3>My portfolio</h3></a>
+
 
 ---
 
