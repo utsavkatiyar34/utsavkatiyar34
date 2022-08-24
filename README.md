@@ -22,7 +22,7 @@
 
 </div>
 <hr>
-<a href="https://myportfolio-utsav-katiyar.netlify.app/" target="blank"> <p>Portfolio</p></a>
+<a href="https://utsav-katiyar.netlify.app/" target="blank"> <p>Portfolio</p></a>
 <a href="https://drive.google.com/file/d/1vKQS1jeamcg00d9Ha0qX-KQAaL42z788/view?usp=sharing/" target="blank"> <p>Resume</p></a>
 <hr>
 ---
