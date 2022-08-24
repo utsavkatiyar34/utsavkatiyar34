@@ -1,7 +1,7 @@
  <h2 color="blue" align="center">
     Hi! there </h2>
 
-   <h2 color="blue" align="center"> I'm Utsav Katiyar</h2>
+   <h2 color="blue" align="center"> I'm Utsav Katiyar, Full stack web developer.</h2>
    <p color="blue" align="center">from <b>Kanpur, Uttar Pradesh, India</b></p>
 
 <div id="header" align="center">
