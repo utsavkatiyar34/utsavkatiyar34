@@ -1,7 +1,7 @@
  <h1 color="blue" align="center">
     Hello! myself Utsav Katiyar
   </h1>
-<a href="https://myportfolio-utsav-katiyar.netlify.app/" target="blank"> <h3>My portfolio</h3></a>
+
 <div id="header" align="center">
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -28,7 +28,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Loves to Explore Technical Content & Web Techs.
 
 - :zap: In my free time, I solve problems on HackerRank, Leetcode & GeeksForGeeks and read about latest upgrading technologies.
-
+<a href="https://myportfolio-utsav-katiyar.netlify.app/" target="blank"> <h3>My portfolio</h3></a>
 
 ---
 
