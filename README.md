@@ -3,7 +3,11 @@
 
    <h2 color="blue" align="center"> I'm Utsav Katiyar, Full stack web developer.</h2>
    <p color="blue" align="center">from <b>Kanpur, Uttar Pradesh, India</b></p>
-
+<hr>
+<a href="https://utsav-katiyar.netlify.app/" target="blank"> <p>Portfolio</p></a>
+<a href="https://www.linkedin.com/in/utsav-katiyar-27635417a/" target="blank"> <p>Linkedin</p></a>
+<a href="https://drive.google.com/file/d/1vKQS1jeamcg00d9Ha0qX-KQAaL42z788/view?usp=sharing/" target="blank"> <p>Resume</p></a>
+<hr>
 <div id="header" align="center">
  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -21,10 +25,7 @@
 <a href="https://github.com/utsavkatiyar34?tab=followers"><img src="https://img.shields.io/github/followers/utsavkatiyar34?label=Followers&style=social" alt="GitHub Badge"></a>
 
 </div>
-<hr>
-<a href="https://utsav-katiyar.netlify.app/" target="blank"> <p>Portfolio</p></a>
-<a href="https://drive.google.com/file/d/1vKQS1jeamcg00d9Ha0qX-KQAaL42z788/view?usp=sharing/" target="blank"> <p>Resume</p></a>
-<hr>
+
 ---
 
 ### :man_technologist: About Me :
