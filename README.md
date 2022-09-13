@@ -1,38 +1,45 @@
- <h2 color="blue" align="center">
-    Hi! there </h2>
+ <h2 color="blue" align="center">Hi! 👋 I'm Utsav Katiyar </h2>
 
-   <h2 color="blue" align="center"> I'm Utsav Katiyar, Full stack web developer.</h2>
+   <h2 color="blue" align="center">Full Stack Web Developer with specialization in MERN stack.</h2>
    <p color="blue" align="center">from <b>Kanpur, Uttar Pradesh, India</b></p>
-<hr>
-<a href="https://utsav-katiyar.netlify.app/" target="blank"> <p>Portfolio</p></a>
-<a href="https://www.linkedin.com/in/utsav-katiyar-27635417a/" target="blank"> <p>Linkedin</p></a>
-<a href="https://drive.google.com/file/d/1vKQS1jeamcg00d9Ha0qX-KQAaL42z788/view?usp=sharing/" target="blank"> <p>Resume</p></a>
-<hr>
-<div id="header" align="center">
- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/utsav-katiyar-27635417a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <div id="badges" align="center">
+    <a href="https://utsav-katiyar.netlify.app/">
+      <img height="27.5px" src="https://img.shields.io/badge/Portfolio-blueviolet" alt="Portfolio"/>
+    </a>
+    <a href="https://drive.google.com/file/d/1vKQS1jeamcg00d9Ha0qX-KQAaL42z788/view?usp=sharing/">
+      <img height="27.5px" src="https://img.shields.io/badge/Resume-blueviolet" alt="Resume"/>
+    </a>
+     <a href="https://www.linkedin.com/in/utsav-katiyar-27635417a/">
+      <img height="27.5px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
     <a href="https://twitter.com/utsav_katiyar">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img height="27.5px" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=utsavkatiyar34&style=flat-square&color=blue" alt=""/>
-<a href="https://github.com/utsavkatiyar34?tab=followers"><img src="https://img.shields.io/github/followers/utsavkatiyar34?label=Followers&style=social" alt="GitHub Badge"></a>
+  <br>
+  <div align="center">
+  <img height="22.5px" src="https://komarev.com/ghpvc/?username=utsavkatiyar34&style=flat&color=orange" alt=""/>
+<a href="https://github.com/utsavkatiyar34?tab=followers"><img height="22.5px" src="https://img.shields.io/github/followers/utsavkatiyar34?label=Followers&style=flat&color=important" alt="GitHub Badge"></a>
+ </div>
+  <br>
 
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavkatiyar34&margin-w=15&margin-h=15" alt="utsav" /></a> </p>
+
+ <br>
+<div id="header" align="center">
+ <div align="center">
+  <img src="https://utsav-katiyar.netlify.app/static/media/skills.9fb771fb.gif" width="70%" height="300"/>
 </div>
-
----
+</div>
+<hr>
 
 ### :man_technologist: About Me :
+
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kanpur, India. Keen enthusiast of tech schooling, love exploring tech funs and new things! 👀
 - :telescope: I’m learning Full Stack Web Development from Masai School.
 
 - :seedling: Loves to Explore Technical Content & Web Techs.
+- 💬 Ask me about **HTML, CSS, Javascript, React, Redux, Chakra-ui,Node.js, Express.js, MongoDB.**
 
 - :zap: In my free time, I solve problems on HackerRank, Leetcode & GeeksForGeeks and read about latest upgrading technologies.
 
